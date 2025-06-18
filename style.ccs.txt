@@ -1,0 +1,19 @@
+body {
+  background-color: #f7f3e9;
+  font-family: 'Georgia', serif;
+  color: #4e4e4e;
+  text-align: center;
+  padding: 50px;
+}
+button {
+  background-color: #c7d8b6;
+  color: #333;
+  border: none;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #b0c8a4;
+}
